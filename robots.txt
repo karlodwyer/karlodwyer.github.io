@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://karlodwyer.github.io/sitemap.xml 
