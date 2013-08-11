@@ -4,7 +4,7 @@
   <title><![CDATA[Karl O'Dwyer]]></title>
   <link href="http://karlodwyer.github.io/atom.xml" rel="self"/>
   <link href="http://karlodwyer.github.io/"/>
-  <updated>2013-08-11T17:25:59+01:00</updated>
+  <updated>2013-08-11T17:51:29+01:00</updated>
   <id>http://karlodwyer.github.io/</id>
   <author>
     <name><![CDATA[Karl]]></name>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<p>Yet another attempt at keeping a blog,
 I hope to make this less of a catalogue of my thoughts (nobody is too interested in those anyway) and more of a loose collection of posts on many of my various assorted projects, interests and maybe even some of my work as a PhD student.</p>
 
-<p>I decided against using Wordpress or similar software to power this site and instead to use a static blog, this is all done using <a href="http://octopress.org/">Octopress link</a> and I like the result so far. (Not that there is anything wrong with Wordpress, but for what I&rsquo;m planing to do, its overkill.)</p>
+<p>I decided against using Wordpress or similar software to power this site and instead to use a static blog, this is all done using <a href="http://octopress.org/">Octopress</a> and I like the result so far. (Not that there is anything wrong with Wordpress, but for what I&rsquo;m planing to do, its overkill.)</p>
 
-<p> The lovely theme I&rsquo;ve used is called <a href="https://github.com/shashankmehta/greyshade">Greyshade link</a>. I had started work on something very similar a few months ago, but other stuff came up and I never came back to it. But I much prefer this theme to my own effort.</p>
+<p> The lovely theme I&rsquo;ve used is called <a href="https://github.com/shashankmehta/greyshade">Greyshade</a>. I had started work on something very similar a few months ago, but other stuff came up and I never came back to it. But I much prefer this theme to my own effort.</p>
 
 <p>Anyway, awkward introductions over, I hope you will join me soon for some actual content.</p>
 ]]></content>
