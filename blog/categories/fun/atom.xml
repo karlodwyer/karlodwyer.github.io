@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Fun | Karl O'Dwyer]]></title>
   <link href="http://karlodwyer.github.io/blog/categories/fun/atom.xml" rel="self"/>
   <link href="http://karlodwyer.github.io/"/>
-  <updated>2013-08-18T11:19:13+01:00</updated>
+  <updated>2013-08-18T11:22:45+01:00</updated>
   <id>http://karlodwyer.github.io/</id>
   <author>
     <name><![CDATA[Karl]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dublin In Open Data]]></title>
-    <link href="http://karlodwyer.github.io/blog/2013/08/17/dublin-in-open-data/"/>
-    <updated>2013-08-17T18:27:00+01:00</updated>
-    <id>http://karlodwyer.github.io/blog/2013/08/17/dublin-in-open-data</id>
+    <link href="http://karlodwyer.github.io/blog/2013/08/18/dublin-in-open-data/"/>
+    <updated>2013-08-18T11:20:00+01:00</updated>
+    <id>http://karlodwyer.github.io/blog/2013/08/18/dublin-in-open-data</id>
     <content type="html"><![CDATA[<p>Open Data from Government is a still in its early stages in Ireland. The data that has been released so far has some interesting aspects and a few problems.</p>
 
 <p>There are a few groups pushing for more open data in Ireland, one group <a href="http://opendata.ie/">Open Data</a> is publishing data they have found about Ireland and making it machine readable. And are also making mash-ups of data. So far they don&rsquo;t have much, but as more data is opened, I&rsquo;m sure they will make some interesting mash-ups and applications.</p>
@@ -36,12 +36,12 @@
 
 <p>Another example is the Transport Feed Data for <a href="http://dublinked.com/datastore/datasets/dataset-254.php">Dublin Bus</a>, <a href="http://dublinked.com/datastore/datasets/dataset-278.php">Luas</a>, <a href="http://dublinked.com/datastore/datasets/dataset-277.php">Irish Rail</a> and <a href="http://dublinked.com/datastore/datasets/dataset-285.php">Bus Éireann</a> which can be used to make a route planning app, the National Transport Authority will start providing this data to Google (finally) and has plans for an API.</p>
 
-<p>Yes, there are huge heaps of data for transport.</p>
+<p>Yep, there are huge heaps of data for transport.</p>
 
 <script src="https://gist.github.com/karlodwyer/6260812.js"></script>
 
 
-<p>That&rsquo;s just 1000 stops from <a href="http://dublinked.com/datastore/datasets/dataset-147.php">the set of National Public Transport nodes</a> I count 17438 in total.</p>
+<p>That&rsquo;s just 1000 stops from <a href="http://dublinked.com/datastore/datasets/dataset-147.php">the set of National Public Transport nodes</a>, I count 17438 in total.</p>
 
 <p>Of course the mack-daddy of open data in Ireland is still <a href="http://www.openstreetmap.org/">Open Street Map</a>, all of it user generated and of reasonably good quality, you can use the data for any manner of things, from making your own custom maps to writing your own route planner to making stunning map visualizations.</p>
 
