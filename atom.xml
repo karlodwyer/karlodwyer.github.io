@@ -4,7 +4,7 @@
   <title><![CDATA[Karl O'Dwyer]]></title>
   <link href="http://karlodwyer.github.io/atom.xml" rel="self"/>
   <link href="http://karlodwyer.github.io/"/>
-  <updated>2013-08-18T11:28:12+01:00</updated>
+  <updated>2013-08-18T11:32:55+01:00</updated>
   <id>http://karlodwyer.github.io/</id>
   <author>
     <name><![CDATA[Karl]]></name>
@@ -24,7 +24,7 @@
 
 <p>So far the biggest effort is called <a href="http://www.dublinked.ie/">Dublinked</a>, its a collaboration between the 4 Dublin Councils and NUI Maynooth and has so far made a lot of <a href="http://www.dublinked.ie/datastore/datastore.php">data open</a>. Some local authorities are better then others, I have to say that Fingal County Council is doing the best.</p>
 
-<p>But there is a load of data in the Dublinked data store. I&rsquo;m more inclined to look at its utility to developers, but this is a very narrow view of it. The idea of opening this information is to democratise it and allow everyone to see it.</p>
+<p>There is a load of data in the Dublinked data store. I&rsquo;m more inclined to look at its utility to developers, but this is a very narrow view of it. The idea of opening this information is to democratise it and allow everyone to see it.</p>
 
 <p>Although if I was going to make one criticism of the Dublinked effort, Its that the data isn&rsquo;t in consistent formats, encodings, coordinate systems, etc. This is probably more to do with how they where using the data and who they got it from. For example spatial data is all over the shop. While some data sets are offered with multiple file formats to make it easier to use, some aren&rsquo;t. And the use of two different geographic coordinate systems makes it all the more difficult for people to understand. For example, some datasets are in <a href="http://en.wikipedia.org/wiki/Irish_Transverse_Mercator">Irish Transverse Mercator</a> others are in <a href="http://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>. (There may be others, but I haven&rsquo;t encountered them)</p>
 
